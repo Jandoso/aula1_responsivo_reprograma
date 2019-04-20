@@ -1,4 +1,5 @@
-AULA 1 - DESIGN RESPONSIVO {reprograma}</br>
-Linguagens utilizadas:</br>
-- HTML </br>
+# AULA 1 - DESIGN RESPONSIVO {reprograma}
+
+#### Linguagens utilizadas:
+- HTML
 - CSS
